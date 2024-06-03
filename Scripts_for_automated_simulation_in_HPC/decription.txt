@@ -1,0 +1,1 @@
+In this folder, you find scripts for submitting slurm jobs on a High Performace Computing clusters and running simulations in an automated fashion\\
