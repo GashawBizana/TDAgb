@@ -1,1 +1,8 @@
-In this folder, you find scripts for submitting slurm jobs on a High Performace Computing clusters and running simulations in an automated fashion\\
+In this folder, you find scripts for submitting slurm jobs on a High Performace Computing clusters and running simulations in an automated fashion
+
+The simulations that we are running here are Atomistic Simulation (Via LAMMPS) of Grain Boundary migration under two driving forces (Mechanical- $\tau$ and Jump in Chemical potential - $\Psi$)
+
+The folder includes:
+
+Bash scripts: needed to submit a slurm job
+Two  python scripts (AJS_*): Python scripts to specify GBs, define simulation conditions and automatically submit jobs for multiple simulations 
